@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IMG420-4
 ## Tile-based world:
 Used a tile sheet and godot tools to create a simple map that offers coliisions (the player/enemy may not "fall off" of the grass bridge into the water) and enemy navigation along the grass bridge targeting the player.
